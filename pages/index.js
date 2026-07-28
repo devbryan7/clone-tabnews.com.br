@@ -1,5 +1,5 @@
 function Home () {
-    return <h1>Helloo my mother ! Eu te amo.</h1>
+    return <h1>Oi mamis ! Eu te amo. Me diz que tá aparecendo uma mensagem pra ti kkkk</h1>
 }
 
-export default Home;''
+export default Home;
